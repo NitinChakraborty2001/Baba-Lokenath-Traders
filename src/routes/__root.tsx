@@ -80,8 +80,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "Baba Lokenath Traders" },
       {
         name: "description",
-        content:
-          "Tour packages and assisted digital services from Baba Lokenath Traders, Hooghly.",
+        content: "Tour packages and assisted digital services from Baba Lokenath Traders, Hooghly.",
       },
       { name: "author", content: "Baba Lokenath Traders" },
       { property: "og:site_name", content: "Baba Lokenath Traders" },
@@ -99,7 +98,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Work+Sans:wght@300;400;500;600;700&display=swap",
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "icon", href: "/Favicon.png", type: "image/x-icon" },
     ],
   }),
   shellComponent: RootShell,

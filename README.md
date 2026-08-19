@@ -30,17 +30,17 @@
 
 ## 1 · Business Context
 
-| Field                        | Detail                                                        |
-| ---------------------------- | ------------------------------------------------------------- |
-| **Business Name**            | Baba Lokenath Traders                                         |
-| **Proprietor**               | Suman Saha                                                    |
-| **Location**                 | Narayantala, Bansberia (Pin Code: 712502), Hooghly, West Bengal, India |
-| **Service Area**             | Bansberia · Mogra · Narayantala & nearby Hooghly              |
-| **Email**                    | blt.travels24@gmail.com                                       |
-| **Phone**                    | +91 94322 73708                                               |
-| **Google Business Profile**  | [g.co/kgs/uX1Pa9o](https://g.co/kgs/uX1Pa9o)                |
-| **Primary CTA Channel**     | WhatsApp — all enquiry buttons deep-link to `wa.me/919432273708` |
-| **Website Powered By**       | [Nexa Digital Services](https://www.nexadigitalservices.agency), a digital agency by [Nitin Chakraborty](https://www.linkedin.com/in/NitinChakraborty2001/) |
+| Field                       | Detail                                                                          |
+| --------------------------- | ------------------------------------------------------------------------------- |
+| **Business Name**           | Baba Lokenath Traders                                                           |
+| **Proprietor**              | Suman Saha                                                                      |
+| **Location**                | Narayantala, Bansberia (Pin Code: 712502), Hooghly, West Bengal, India           |
+| **Service Area**            | Bansberia · Mogra · Narayantala & nearby Hooghly                                |
+| **Email**                   | blt.travels24@gmail.com                                                         |
+| **Phone**                   | +91 94322 73708                                                                 |
+| **Google Business Profile** | [g.co/kgs/uX1Pa9o](https://g.co/kgs/uX1Pa9o)                                  |
+| **Primary CTA Channel**    | WhatsApp — all enquiry buttons deep-link to `wa.me/919432273708`                |
+| **Website Powered By**      | [Nexa Digital Services](https://www.nexadigitalservices.agency), a digital agency by [Nitin Chakraborty](https://www.linkedin.com/in/NitinChakraborty2001/) |
 
 ### Core Offerings
 
@@ -52,11 +52,11 @@
 
 ## 2 · Target Audience
 
-| Persona              | Need                                                                                                                                          |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Friend Groups**    | Budget-friendly group holidays (10–20 people) with shared vehicles and group hotel rates. One plan, no arguing over money.                    |
-| **Families**         | End-to-end holiday planning — lodging, sightseeing cars, meals — with a single point of contact on the road if anything changes.              |
-| **Local Shop Owners**| Quick, in-neighbourhood access to Aadhaar banking, recharges, PAN cards without closing their shop for half a day.                            |
+| Persona              | Need                                                                                                                                         |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Friend Groups**    | Budget-friendly group holidays (10–20 people) with shared vehicles and group hotel rates. One plan, no arguing over money.                   |
+| **Families**         | End-to-end holiday planning — lodging, sightseeing cars, meals — with a single point of contact on the road if anything changes.             |
+| **Local Shop Owners**| Quick, in-neighbourhood access to Aadhaar banking, recharges, PAN cards without closing their shop for half a day.                           |
 
 ---
 
@@ -283,7 +283,7 @@ Fonts are loaded via Google Fonts with `display=swap` and `preconnect` hints for
 | **Twitter Card**     | `summary_large_image`                                                                             |
 | **Charset & Viewport** | `utf-8`, `width=device-width, initial-scale=1`                                                 |
 | **Author**           | `<meta name="author" content="Baba Lokenath Traders">`                                          |
-| **Favicon**          | `/favicon.ico`                                                                                   |
+| **Favicon**          | `/Favicon.png`                                                                                   |
 | **JSON-LD**          | `@type: TravelAgency` with `name`, `email`, `telephone`, `founder`, `areaServed`, `sameAs`, and `makesOffer` listing all 9 services |
 
 ### JSON-LD Schema (Condensed)
